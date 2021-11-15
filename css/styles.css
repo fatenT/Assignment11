@@ -1,0 +1,32 @@
+.navbar {
+    margin: 15px 25px;
+    padding: 0;
+    z-index: 10;
+    width: 95%;
+}
+.navbar-brand > img {
+    height: 35px;
+
+}
+
+h4 {
+    font-weight: 500;
+    font-size: 1em;
+}
+
+.navbar-collapse .nav-item .active {
+    background-color: #000000;
+}
+
+.nav-tabs .nav-link {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.5rem;
+}
+
+.scrollspy-example {
+    height: 250px;
+    overflow-y: scroll;
+    position: relative;
+}
+
+
